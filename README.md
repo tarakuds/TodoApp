@@ -157,8 +157,8 @@ export const authConfig = {
 ```
 
 **Interface View**
-[Index Page]("https://res.cloudinary.com/dfg1bmlsk/image/upload/v1662479957/Screenshot_45_fmhaab.png")
-[other Pages](https://res.cloudinary.com/dfg1bmlsk/image/upload/v1662479958/Screenshot_48_gg9qeh.png)
+![Index Page]("https://res.cloudinary.com/dfg1bmlsk/image/upload/v1662479957/Screenshot_45_fmhaab.png")
+![other Pages](https://res.cloudinary.com/dfg1bmlsk/image/upload/v1662479958/Screenshot_48_gg9qeh.png)
 
 ## Authentication
 
